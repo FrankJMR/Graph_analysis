@@ -1,6 +1,6 @@
 name: notebook_environment
 channels:
-  - Anaconda3
+  - conda-forge
 dependencies:
   - numpy
   - matplotlib
