@@ -1,0 +1,9 @@
+name: notebook_environment
+channels:
+  - Anaconda3
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - networkx
+  - scipy
